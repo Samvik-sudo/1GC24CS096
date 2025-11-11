@@ -1,9 +1,1 @@
-Title: Mr
-Full Name: Samvik
-USN: 1GC24CS096
-Semester: Third
-Section: B
-Branch: Computer Science Engineering
-Year of Admission: 2024
-College Name: GCE
 
