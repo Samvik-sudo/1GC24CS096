@@ -6,3 +6,6 @@ Section: B
 Branch: Computer Science Engineering
 Year of Admission: 2024
 College Name: GCE
+S.S.L.C: Twinkle United Public School
+P.U: Mandavya Excellence P.U College
+U.G Degree: 2nd Year Computer Science Engineering
